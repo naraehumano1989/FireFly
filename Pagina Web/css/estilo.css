@@ -24,7 +24,6 @@ body {
   flex-direction:column;
 }
 main {
-  background-image: url("../img/carbon_activado.jpg");
   background-repeat: no-repeat;
   display: grid;
   height: 100%;
